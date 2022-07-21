@@ -3,17 +3,17 @@
 body {
   background-color: #fff;
   font-family: Arial, Helvetica, sans-serif;
-  color: #5c5c5c;
+  color: #494949;
 }
 
 .header {
 
+  background-color: #3a9247;
+  height: 100px;
+
   @include media("<minWidth") {
     height: 70px;
   };
-
-  background-color: #3a9247;
-  height: 100px;
 
   .container {
     display: flex;
@@ -24,15 +24,15 @@ body {
 
   .cv-type {
 
-    @include media("<minWidth") {
-      font-size: 28px;      
-    };
-
     color: #fff;
     text-transform: none;
     width: 67%;
     font-size: 40px;
-    margin-left: 8px;
+
+    @include media("<minWidth") {
+      font-size: 28px;      
+    };
+
   }
 
   .cv-foto {
@@ -41,27 +41,88 @@ body {
 
     img {
 
+      height: 200%;
+      margin: 16px 32px;
+      border: 8px solid #fff;
+      border-radius: 49.9%;
+
       @include media("<minWidth") {
         height: 120%;
         margin: 8px 16px;
         border: 4px solid #fff;
       };
 
-      height: 200%;
-      margin: 16px 32px;
-      border: 8px solid #fff;
-      border-radius: 49.9%;
     }
   }
 
 }
 
 .content {
-  display: flex;
 
-  .personal-data {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
 
+    .group-container {
+
+      width: 33%;
+      
+      @include media("<minWidth") {
+        width: 100%;
+      };
+  
+    }
+  
+    .personal-data {
+      padding-top: 146px;
+  
+      @include media("<minWidth") {
+        padding-top: 34px;
+      };
+
+    }
+  
   }
 
-  
+  .group-right-container {
+
+    @include media("<minWidth") {
+      width: 100%;
+    };
+
+    width: 67%;
+      
+  }
+
+}
+
+.pl {
+  padding-left: 32px;
+
+  @include media("<minWidth") {
+    padding-left: 16px;
+  };
+
+}
+
+.pr {
+  padding-right: 32px;
+
+  @include media("<minWidth") {
+    padding-right: 16px;
+  };
+
+}
+
+.pb {
+  padding-bottom: 8px;
+}
+
+.section-pb {
+  padding-bottom: 16px;
+}
+
+
+.pt {
+  padding-bottom: 6px;
 }

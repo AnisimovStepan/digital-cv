@@ -3,6 +3,8 @@ require('../scss/media.scss');
 require('../scss/style.scss');
 require('../scss/text.scss');
 
-require('./personalDataService.js');
-require('./cvService.js');
+require('./PersonalDataService.js');
+require('./CvService.js');
+require('./InterestsService.js');
+require('./LanguagesService.js');
 

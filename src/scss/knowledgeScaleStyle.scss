@@ -1,0 +1,24 @@
+.ks-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 6px;
+}
+
+.scale-container {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.dot {
+  height: 12px;
+  width: 12px;
+  background-color: #3a9247;
+  border-radius: 49.9%;
+  display: inline-block;
+
+  &.transparent {
+    opacity: .33;
+  }
+}
