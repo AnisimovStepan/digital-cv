@@ -2,10 +2,9 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  };
-module.exports = {
-    entry: './src/js/init.js',
-    mode: 'production',
+    entry: './src/js/index.js',
+    // mode: 'production',
+    mode: 'development',
 
     plugins: [
         new HtmlWebpackPlugin({

@@ -1,3 +1,67 @@
-.hi-man {
-  color: rgb(199, 21, 21);
+@import 'media';
+
+body {
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5c5c5c;
+}
+
+.header {
+
+  @include media("<minWidth") {
+    height: 70px;
+  };
+
+  background-color: #3a9247;
+  height: 100px;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .cv-type {
+
+    @include media("<minWidth") {
+      font-size: 28px;      
+    };
+
+    color: #fff;
+    text-transform: none;
+    width: 67%;
+    font-size: 40px;
+    margin-left: 8px;
+  }
+
+  .cv-foto {
+    width: 33%;
+    height: 100%;
+
+    img {
+
+      @include media("<minWidth") {
+        height: 120%;
+        margin: 8px 16px;
+        border: 4px solid #fff;
+      };
+
+      height: 200%;
+      margin: 16px 32px;
+      border: 8px solid #fff;
+      border-radius: 49.9%;
+    }
+  }
+
+}
+
+.content {
+  display: flex;
+
+  .personal-data {
+
+  }
+
+  
 }
