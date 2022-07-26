@@ -1,0 +1,35 @@
+@import 'media';
+
+.save-to-pdf-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #fff;
+  border-radius: 20%;
+  
+  min-width: 48px;
+  height: 48px;
+
+  margin-right: 32px;
+
+  cursor: pointer;
+
+  @include media("<minWidth") {
+    min-width: 34px;
+    height: 34px;
+  
+    margin-right: 16px;
+  }
+
+  .name {
+    font-size: 16px;
+    font-weight: bold;
+
+    @include media("<minWidth") {
+      font-size: 10px;
+    }
+  
+  }
+
+}
