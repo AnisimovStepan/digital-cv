@@ -1,5 +1,5 @@
 import languages from '../data/languages.json';
-import { createKnowledgeScaleElement } from './KnowledgeScaleService.js';
+import { createKnowledgeScaleElement } from './KnowledgeScaleService';
 
 class LanguagesService {
 
@@ -17,16 +17,7 @@ class LanguagesService {
 
         Object.entries(languages.sectionData)
             .forEach(([key, value]) => {
-                const cntr = document.createElement('div');
-                cntr.classList.add('ks-container');
-
-                const hdr = document.createElement('div');
-                hdr.classList.add('text-header');
-                hdr.innerHTML = key;
-                cntr.appendChild(hdr);
-                                
-                createKnowledgeScaleElement(cntr, value);
-
+                const cntr = createKnowledgeScaleElement(key, value);
                 languagesElement.appendChild(cntr);
             });
     }

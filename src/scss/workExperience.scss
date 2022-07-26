@@ -1,0 +1,38 @@
+@import 'media';
+
+.we-container {
+  display: flex;
+}
+
+.we-wrapper-container {
+  display: flex;
+
+  @include media("<minWidth") {
+    flex-wrap: wrap;
+  };
+}
+
+.time-line {
+  min-width: 2px;
+  align-self: stretch;
+  background-color: #494949;
+  opacity: 0.33;
+}
+
+.black-dot {
+  height: 8px;
+  min-width: 8px;
+  background-color: #494949;
+  border-radius: 49.9%;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 16px;
+
+  @include media("<minWidth") {
+    height: 6px;
+    min-width: 6px;
+    margin-top: 7px;
+    margin-right: 10px;
+  };
+}
+

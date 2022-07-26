@@ -1,14 +1,19 @@
 .ks-container {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
   padding-bottom: 6px;
+
+  &:last-child {
+    padding-bottom: 0px;
+  }
 }
 
 .scale-container {
   display: flex;
   align-items: center;
   column-gap: 10px;
+  margin-top: 6px;
 }
 
 .dot {

@@ -1,0 +1,84 @@
+{
+    "sectionName": "Arbeitserfahrung",
+    "sectionData": {
+        "Feb 2021 - Aktuell": {
+            "position": "Java Entwickler",
+            "companyNameAndAddress": "DeinDesign GmbH, Bad Kreuznach, Deutschland",
+            "projectName": {
+                "Projekttitel": "Admin CRM-Web-Anwendung, Product Manager Desktop-Anwendung"
+            },
+            "activities": {
+                "Tätigkeiten": [
+                    "(Weiter-) Entwicklung und Optimierung von komplexen, Java basierten Webanwendungen mit Spring, Lombok, JPA, Hibernate, HTML, CSS, Bootstrap, JavaScript, jQuery, Tomcat, PostgreSQL, Docker",
+                    "Mitentwicklung einer Event-getriebenen Architektur mit AMQP und RabbitMQ",
+                    "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (SAP, Adyen, Shopware, Otto)",
+                    "Erstellung von Unit-, Integrations- und End-to-End-Tests mit TestNG, JUnit, Mockito und Cypress",
+                    "Erstellung von Datenexporten und -reports für Fachabteilungen und Geschäftsleitung, etc.",
+                    "Prozessunterstützender Einsatz von Git, Github, Jenkins CI/CD, Linux, Bash, Jira, Confluence, IntelliJ IDEA",
+                    "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
+                    "Optimierung von Performance und Durchführung von Last-Tests",
+                    "Sicherstellung von Code-Qualität durch Clean Code Development und Code-Reviews",    
+                    "Wissenstransfers und Etablierung von Best-Practices"
+                ]    
+            }
+        },
+
+        "Sep 2020 - Jan 2021": {
+            "position": "Softwareentwickler",
+            "companyNameAndAddress": "Borth E-Commerce GmbH, Bad Kreuznach, Deutschland",
+            "projectName": {
+                "Projekttitel": "DOKA LOG, Projekt im Logistikbereich"
+            },
+            "activities": {
+                "Tätigkeiten": [
+                    "(Weiter-) Entwicklung und Optimierung von komplexen, Java basierten Webanwendungen mit Spring Boot, JPA, Hibernate, REST, HATEOAS, Mail, Lombok, SQL, PostgreSQL, Docker",
+                    "(Weiter-) Entwicklung und Optimierung von komplexen, Angular basierten Webanwendungen mit TypeScript, HTML5, SCSS, NPM, JSON",
+                    "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (Google Maps, Tomtom, PDF Exports, reCAPTCHA)",
+                    "Prozessunterstützender Einsatz von Git, Github, Jenkins CI/CD, Linux, Bash, Redmine, Windows, IntelliJ IDEA, VS Code",
+                    "Erstellung von Unit-, Integrations- mit JUnit, Mockito, Jest",
+                    "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
+                    "Optimierung von Performance",
+                    "Sicherstellung von Code-Qualität durch Clean Code Development und Code-Reviews, Etablierung von Best-Practices"
+                ]    
+            }
+        },
+
+        "Aug 2016 - Aug 2020": {
+            "position": "Fullstack Entwickler (Remote)",
+            "companyNameAndAddress": "FLG.bet, Moskau, Russische Föderation",
+            "projectName": {
+                "Projekttitel": "Kundenspezifische Entwicklung im Glücksspielgeschäft"
+            },
+            "activities": {
+                "Tätigkeiten": [
+                    "(Weiter-) Entwicklung und Optimierung von komplexen, JavaScript basierten Webanwendungen mit Webpack, HTML5, Canvas, Pixi.js, SCSS, NPM, JSON",
+                    "(Weiter-) Entwicklung und Optimierung von komplexen, Java basierten Webanwendungen mit Spring Boot, JPA, Hibernate, SQL, MS SQL Server, Docker",
+                    "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (Wowza Video Strimming, Tawk Live Chat, Firebase Cloud Messaging, reCAPTCHA)",
+                    "Prozessunterstützender Einsatz von Git, Github, Trello, Windows, IntelliJ IDEA",
+                    "Erstellung von Unit-, Integrations- mit Jest, JUnit, Mockito",
+                    "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
+                    "Optimierung von Performance"
+                ]
+            }
+        },
+
+        "Apr 2011 - Jul 2016": {
+            "position": "Leitender Programmierer",
+            "companyNameAndAddress": "IndorSoft, Tomsk, Russische Föderation",
+            "projectName": {
+                "Projekttitel": "IndorCAD, Engineering‑Systemen für computergestütztes Design (CAD)"
+            },
+            "activities": {
+                "Tätigkeiten": [
+                    "(Weiter-) Entwicklung und Optimierung von komplexen, Delphi basierten Desktopanwendungen mit DevExpress, VCL, FastReport, MS SQL Server",
+                    "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (Google Maps, Yandex Maps, Trimble)",
+                    "Erstellung von Datenexporten und -reports für Fachabteilungen und Geschäftsleitung, etc.",
+                    "Prozessunterstützender Einsatz von TortoiseSVN, Embarcadero RAD Studio, Jira, Windows",
+                    "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
+                    "Optimierung von Performance und Speichernutzungen",
+                    "Wissenstransfers und Etablierung von Best-Practices"
+                ]    
+            } 
+        }
+    }
+}

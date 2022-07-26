@@ -1,0 +1,13 @@
+.header-section-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.line {
+  flex: 1;
+  height: 2px;
+  background-color: #494949;
+  opacity: 0.33;
+}

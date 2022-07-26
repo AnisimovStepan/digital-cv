@@ -4,6 +4,13 @@ body {
   background-color: #fff;
   font-family: Arial, Helvetica, sans-serif;
   color: #494949;
+  line-height: 1.43;
+  font-size: 19px;
+  word-break: break-word;
+
+  @include media("<minWidth") {
+    font-size: 16px;
+  };
 }
 
 .header {
@@ -91,6 +98,36 @@ body {
     };
 
     width: 67%;
+
+    .profile {
+
+      @include media(">minWidth") {
+        padding-top: 12px;
+      };
+
+    }
+      
+  }
+
+  .skills-container {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    .skill {
+
+      width: 30%; 
+
+      @include media("<minWidth") {
+        width: 100%;
+      }
+
+      @include media(">minWidth", "<bp1Width" ) {
+        width: 45%;
+      }
+
+    }
       
   }
 
@@ -115,13 +152,16 @@ body {
 }
 
 .pb {
-  padding-bottom: 8px;
+  padding-bottom: 10px;
 }
 
 .section-pb {
   padding-bottom: 16px;
 }
 
+.content-end-pb {
+  padding-bottom: 80px;
+}
 
 .pt {
   padding-bottom: 6px;
