@@ -7,7 +7,7 @@ require('./PersonalDataService.js');
 require('./CvService.js');
 require('./InterestsService.js');
 require('./LanguagesService.js');
-// require('./ProfileService.js');
+require('./ProfileService.js');
 require('./WorkExperienceService.js');
 require('./SkillsService.js');
 require('./PublicationsService.js');
