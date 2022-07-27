@@ -15,10 +15,11 @@ export const createKnowledgeScaleElement = (name, scale) => {
 
     for (let i = 0; i < 5; i++) {
         const dot = document.createElement('div');
-        dot.classList.add('dot');
 
         if (scale - 1 < i) {
-            dot.classList.add('transparent');
+            dot.classList.add('dot-transparent');
+        } else {
+            dot.classList.add('dot');
         }
 
         scaleCntr.appendChild(dot);
