@@ -23,13 +23,16 @@ class SaveToPdfService {
         
         var doc = new jsPDF('p', 'pt', [site.clientWidth, site.clientWidth * 1,4142]);
 
-
         button.style.display = 'none';
+        const content = window.document.getElementsByClassName('content-end-pb')[0];
+        content.style.paddingBottom = '0px';
+
         doc.html(site, {
             
             callback: function(doc) {
                 doc.save(fileName);
                 button.style.display = 'flex';
+                content.style.paddingBottom = '';
             },
 
             specialElementHandlers: {

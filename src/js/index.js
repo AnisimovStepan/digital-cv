@@ -9,6 +9,7 @@ require('./InterestsService.js');
 require('./LanguagesService.js');
 require('./ProfileService.js');
 require('./WorkExperienceService.js');
+require('./EductaionAndQualificationsService.js');
 require('./SkillsService.js');
 require('./PublicationsService.js');
 require('./SaveToPdfService.js');

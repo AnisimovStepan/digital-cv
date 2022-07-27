@@ -1,0 +1,32 @@
+{
+    "sectionName": "Eductaion and qualifications",
+    "sectionData": {
+        "Feb 2019 - Sep 2019": {
+            "speciality": "Java Entwickler",
+            "universityName": "Viacademia Institut für Fort-und Weiterbildung, Moskau, Russische Föderation",
+            "faculty": {
+                "Fakultät": "Informationssysteme und Technologien"
+            },
+            "department": {
+                "Abteilung": "Teilzeitabteilung"
+            },
+            "focus": {
+                "Schwerpunkt": "Intensivpraktikum in Java‑Entwicklung (für Fortgeschrittene)"
+            }
+        },
+
+        "Sep 2005 - Jun 2010": {
+            "speciality": "Master Informatik",
+            "universityName": "Nationale Polytechnische Universität Tomsk, Tomsk, Russische Föderation",
+            "faculty": {
+                "Fakultät": "Informatik und Ingenieurwesen"
+            },
+            "department": {
+                "Abteilung": "Vollzeitabteilung"
+            },
+            "focus": {
+                "Schwerpunkt": "Informationssysteme und Technologien"
+            }
+        }
+    }
+}

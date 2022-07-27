@@ -31,14 +31,13 @@
             },
             "activities": {
                 "Tätigkeiten": [
-                    "(Weiter-) Entwicklung und Optimierung von komplexen, Java basierten Webanwendungen mit Spring Boot, JPA, Hibernate, REST, HATEOAS, Mail, Lombok, SQL, PostgreSQL, Docker",
-                    "(Weiter-) Entwicklung und Optimierung von komplexen, Angular basierten Webanwendungen mit TypeScript, HTML5, SCSS, NPM, JSON",
-                    "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (Google Maps, Tomtom, PDF Exports, reCAPTCHA)",
-                    "Prozessunterstützender Einsatz von Git, Github, Jenkins CI/CD, Linux, Bash, Redmine, Windows, IntelliJ IDEA, VS Code",
-                    "Erstellung von Unit-, Integrations- mit JUnit, Mockito, Jest",
-                    "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
-                    "Optimierung von Performance",
-                    "Sicherstellung von Code-Qualität durch Clean Code Development und Code-Reviews, Etablierung von Best-Practices"
+                    "Entwicklung von Frontend (Angular, TypeScript, HTML5, SCSS, NPM, AJAX, JSON)",
+                    "Entwicklungsumgebung (Windows, IntelliJ IDEA, VS Code, Docker)",
+                    "Dokumentation (Redmine)",
+                    "Tests vom Backend (JUnit)",
+                    "Continuous integration (CI) und Continuous delivery (CD) (Jenkins)",
+                    "Vorgehensweise (Scrum, Redmine)",
+                    "Verwaltung von Quellcode (Git)"
                 ]    
             }
         },
@@ -51,13 +50,12 @@
             },
             "activities": {
                 "Tätigkeiten": [
-                    "(Weiter-) Entwicklung und Optimierung von komplexen, JavaScript basierten Webanwendungen mit Webpack, HTML5, Canvas, Pixi.js, SCSS, NPM, JSON",
-                    "(Weiter-) Entwicklung und Optimierung von komplexen, Java basierten Webanwendungen mit Spring Boot, JPA, Hibernate, SQL, MS SQL Server, Docker",
-                    "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (Wowza Video Strimming, Tawk Live Chat, Firebase Cloud Messaging, reCAPTCHA)",
-                    "Prozessunterstützender Einsatz von Git, Github, Trello, Windows, IntelliJ IDEA",
-                    "Erstellung von Unit-, Integrations- mit Jest, JUnit, Mockito",
-                    "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
-                    "Optimierung von Performance"
+                    "Serverseitige Entwicklung (Backend), Microservices, Push Notification",
+                    "Entwicklung Canvas/JavaScript Online‑Spiele und Unterstützung",
+                    "Webinterface‑Entwicklung zur Integration mit Partnern",
+                    "Website‑Entwicklung und Geschäftsanwendungen",
+                    "Aufgabe mit Live Stream Video",
+                    "Erstellung von technische Dokumentationen"
                 ]
             }
         },
@@ -70,13 +68,11 @@
             },
             "activities": {
                 "Tätigkeiten": [
-                    "(Weiter-) Entwicklung und Optimierung von komplexen, Delphi basierten Desktopanwendungen mit DevExpress, VCL, FastReport, MS SQL Server",
-                    "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (Google Maps, Yandex Maps, Trimble)",
-                    "Erstellung von Datenexporten und -reports für Fachabteilungen und Geschäftsleitung, etc.",
-                    "Prozessunterstützender Einsatz von TortoiseSVN, Embarcadero RAD Studio, Jira, Windows",
-                    "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
-                    "Optimierung von Performance und Speichernutzungen",
-                    "Wissenstransfers und Etablierung von Best-Practices"
+                    "Entwicklung eines Berichtserstellungsmoduls basierend auf Modelldaten unter Verwendung der FastReport VCL‑Bibliothek",
+                    "Teilnahme an der Entwicklung eines IndorCAD Programms für die automatisierte Gestaltung von Straßen und Kommunikation",
+                    "Entwicklung und Betreuung des Moduls des Querstraßenprofileditors",
+                    "Erstellung von technische Dokumentationen",
+                    "Teilnahme an Kundenschulungssoftware, Technischer Support für IndorCAD Software"                
                 ]    
             } 
         }

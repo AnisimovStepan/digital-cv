@@ -7,7 +7,7 @@
 
 .line {
   flex: 1;
-  height: 2px;
+  min-height: 2px;
   background-color: #494949;
   opacity: 0.33;
 }
