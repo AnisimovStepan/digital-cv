@@ -3,7 +3,7 @@
     "sectionData": {
         "Feb 2019 - Sep 2019": {
             "speciality": "Java Entwickler",
-            "universityName": "Viacademia Institut für Fort-und Weiterbildung, Moskau, Russische Föderation",
+            "universityName": "Viacademia Institut für Fort-und Weiterbildung, Moskau, Russland",
             "faculty": {
                 "Fakultät": "Informationssysteme und Technologien"
             },
@@ -16,16 +16,16 @@
         },
 
         "Sep 2005 - Jun 2010": {
-            "speciality": "Master Informatik",
-            "universityName": "Nationale Polytechnische Universität Tomsk, Tomsk, Russische Föderation",
+            "speciality": "Master of Engineering (M. Eng.)",
+            "universityName": "Nationale Polytechnische Universität Tomsk, Tomsk, Russland",
             "faculty": {
-                "Fakultät": "Informatik und Ingenieurwesen"
+                "Fakultät": "Informationssysteme und Technologien"
             },
             "department": {
                 "Abteilung": "Vollzeitabteilung"
             },
             "focus": {
-                "Schwerpunkt": "Informationssysteme und Technologien"
+                "Schwerpunkt": "Geoinformationssysteme"
             }
         }
     }

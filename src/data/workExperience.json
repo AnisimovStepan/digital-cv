@@ -2,7 +2,7 @@
     "sectionName": "Arbeitserfahrung",
     "sectionData": {
         "Feb 2021 - Aktuell": {
-            "position": "Java Entwickler",
+            "position": "Java-Entwickler (60% Remote)",
             "companyNameAndAddress": "DeinDesign GmbH, Bad Kreuznach, Deutschland",
             "projectName": {
                 "Projekttitel": "Admin CRM-Web-Anwendung, Product Manager Desktop-Anwendung"
@@ -24,17 +24,17 @@
         },
 
         "Sep 2020 - Jan 2021": {
-            "position": "Softwareentwickler",
+            "position": "Fullstack-Entwickler",
             "companyNameAndAddress": "Borth E-Commerce GmbH, Bad Kreuznach, Deutschland",
             "projectName": {
                 "Projekttitel": "DOKA LOG, Projekt im Logistikbereich"
             },
             "activities": {
                 "Tätigkeiten": [
-                    "Entwicklung von Frontend (Angular, TypeScript, HTML5, SCSS, NPM, AJAX, JSON)",
+                    "Entwicklung der Backend-Webservices (ava, Spring (Boot), JPA, Hibernate, REST, HATEOAS, Lombok, SQL, PostgreSQL, Docker)",
+                    "Frontend-Entwicklung (Angular, TypeScript, HTML5, SCSS, NPM, AJAX, JSON)",
                     "Entwicklungsumgebung (Windows, IntelliJ IDEA, VS Code, Docker)",
-                    "Dokumentation (Redmine)",
-                    "Tests vom Backend (JUnit)",
+                    "Unit-Tests (JUnit, Mockito, Jest)",
                     "Continuous integration (CI) und Continuous delivery (CD) (Jenkins)",
                     "Vorgehensweise (Scrum, Redmine)",
                     "Verwaltung von Quellcode (Git)"
@@ -43,36 +43,34 @@
         },
 
         "Aug 2016 - Aug 2020": {
-            "position": "Fullstack Entwickler (Remote)",
-            "companyNameAndAddress": "FLG.bet, Moskau, Russische Föderation",
+            "position": "Fullstack-Entwickler (Remote)",
+            "companyNameAndAddress": "FLG.bet, Moskau, Russland",
             "projectName": {
-                "Projekttitel": "Kundenspezifische Entwicklung im Glücksspielgeschäft"
+                "Projekttitel": "Entwicklung von White-Label-Lösungen in der Glücksspielbranche"
             },
             "activities": {
                 "Tätigkeiten": [
-                    "Serverseitige Entwicklung (Backend), Microservices, Push Notification",
-                    "Entwicklung Canvas/JavaScript Online‑Spiele und Unterstützung",
-                    "Webinterface‑Entwicklung zur Integration mit Partnern",
-                    "Website‑Entwicklung und Geschäftsanwendungen",
-                    "Aufgabe mit Live Stream Video",
-                    "Erstellung von technische Dokumentationen"
+                    "Entwicklung der Frontends für Online-Glücksspiele (JavaScript, HTML, CSS, Canvas, Bootstrap, PixiJS, Webpack)",
+                    "Schnittstellenentwicklung für Integrationen mit Partnerunternehmen (Java, Spring (Boot), Maven, JPA, Hibernate, SQL, PostgreSQL, Docker, REST, JSON)",
+                    "Implementierung von Live Video Streaming (Wowza Streaming Engine)",
+                    "Unit-Testing (JUnit, Mockito, Jest)"
                 ]
             }
         },
 
         "Apr 2011 - Jul 2016": {
             "position": "Leitender Programmierer",
-            "companyNameAndAddress": "IndorSoft, Tomsk, Russische Föderation",
+            "companyNameAndAddress": "IndorSoft, Tomsk, Russland",
             "projectName": {
-                "Projekttitel": "IndorCAD, Engineering‑Systemen für computergestütztes Design (CAD)"
+                "Projekttitel": "IndorCAD (rechnerunterstütztes Konstruieren der Straßen und Autobahnen)"
             },
             "activities": {
                 "Tätigkeiten": [
-                    "Entwicklung eines Berichtserstellungsmoduls basierend auf Modelldaten unter Verwendung der FastReport VCL‑Bibliothek",
-                    "Teilnahme an der Entwicklung eines IndorCAD Programms für die automatisierte Gestaltung von Straßen und Kommunikation",
+                    "Entwicklung Delphi-basierter Desktop-Anwendungen (Delphi, DevExpress, FastReport VCL, MS SQL Server)",
+                    "Performance- und Arbeitsspeichernutzung-Optimierungen",
                     "Entwicklung und Betreuung des Moduls des Querstraßenprofileditors",
-                    "Erstellung von technische Dokumentationen",
-                    "Teilnahme an Kundenschulungssoftware, Technischer Support für IndorCAD Software"                
+                    "Erstellung der technischen Dokumentation",
+                    "Kundenschulung und technische Unterstützung"                
                 ]    
             } 
         }
