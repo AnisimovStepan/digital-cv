@@ -5,7 +5,7 @@
             "position": "Java-Entwickler (60% Remote)",
             "companyNameAndAddress": "DeinDesign GmbH, Bad Kreuznach, Deutschland",
             "projectName": {
-                "Projekttitel": "Admin CRM-Web-Anwendung, Product Manager Desktop-Anwendung"
+                "Projekttitel": "CRM-Webanwendung für die Mitarbeiter, Desktop-Anwendung für die Verwaltung der Produkterstellung"
             },
             "activities": {
                 "Tätigkeiten": [
@@ -14,7 +14,7 @@
                     "Machbarkeitsanalysen, Inbetriebnahme/Anbindung und Wartung von externen APIs (SAP, Adyen, Shopware, Otto)",
                     "Erstellung von Unit-, Integrations- und End-to-End-Tests mit TestNG, JUnit, Mockito und Cypress",
                     "Erstellung von Datenexporten und -reports für Fachabteilungen und Geschäftsleitung, etc.",
-                    "Prozessunterstützender Einsatz von Git, Github, Jenkins CI/CD, Linux, Bash, Jira, Confluence, IntelliJ IDEA",
+                    "Prozessunterstützender Einsatz von Git, GitHub, Jenkins CI/CD, Linux, Bash, Jira, Confluence, IntelliJ IDEA",
                     "Teilnahme an den Agile-Prozessen, Anforderungsanalyse und Aufwandsschätzungen",
                     "Optimierung von Performance und Durchführung von Last-Tests",
                     "Sicherstellung von Code-Qualität durch Clean Code Development und Code-Reviews",    
@@ -27,7 +27,7 @@
             "position": "Fullstack-Entwickler",
             "companyNameAndAddress": "Borth E-Commerce GmbH, Bad Kreuznach, Deutschland",
             "projectName": {
-                "Projekttitel": "DOKA LOG, Projekt im Logistikbereich"
+                "Projekttitel": "DOKA LOG (Logistikplattform)"
             },
             "activities": {
                 "Tätigkeiten": [
