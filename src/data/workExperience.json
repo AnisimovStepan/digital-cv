@@ -2,7 +2,7 @@
     "sectionName": "Arbeitserfahrung",
     "sectionData": {
         "Feb 2021 - Aktuell": {
-            "position": "Java-Entwickler (60% Remote)",
+            "position": "Java Entwickler (60% Remote)",
             "companyNameAndAddress": "DeinDesign GmbH, Bad Kreuznach, Deutschland",
             "projectName": {
                 "Projekttitel": "CRM-Webanwendung für die Mitarbeiter, Desktop-Anwendung für die Verwaltung der Produkterstellung"
@@ -24,7 +24,7 @@
         },
 
         "Sep 2020 - Jan 2021": {
-            "position": "Fullstack-Entwickler",
+            "position": "Fullstack Entwickler",
             "companyNameAndAddress": "Borth E-Commerce GmbH, Bad Kreuznach, Deutschland",
             "projectName": {
                 "Projekttitel": "DOKA LOG (Logistikplattform)"
@@ -43,7 +43,7 @@
         },
 
         "Aug 2016 - Aug 2020": {
-            "position": "Fullstack-Entwickler (Remote)",
+            "position": "Fullstack Entwickler (Remote)",
             "companyNameAndAddress": "FLG.bet, Moskau, Russland",
             "projectName": {
                 "Projekttitel": "Entwicklung von White-Label-Lösungen in der Glücksspielbranche"
